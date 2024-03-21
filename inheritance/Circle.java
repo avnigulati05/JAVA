@@ -2,7 +2,7 @@ package inheritance;
 
 class Circle extends Shape {
 
-    void print () {
+    void printcircle () {
         System.out.println("This is circle ");
     }
 }
